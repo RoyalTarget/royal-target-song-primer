@@ -24,7 +24,9 @@ Both songs were written and recorded as a **“one man band” in the basement**
 - `lyric_rules.json` → language and intonation rules.  
 - `faq.md` → frequently asked questions.  
 - `rules.md` → guidelines for AI/tools.  
-- `versions.json` → version history.  
+- `versions.json` → version history.
+- - [Mirror Song Folder](songs/mirror/) → lyrics, notes & rules
+
 
 ---
 

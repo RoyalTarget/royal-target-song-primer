@@ -40,5 +40,8 @@ Look in the mirror, hear my words far too loud
 C#m  E   C#m  E  
 And I sing and I sing it so lou-loud  
 C#m  E   C#m  E  
-And I sing
-
+And I sing and I sing it so lou-loud  
+C#m  E   C#m  E  
+And I sing and I sing it so lou-loud  
+F#m  D   Dm  
+(extension → return to Verse)

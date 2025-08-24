@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "updated_at": "2025-08-24",
+  "flow": [
+    {
+      "section": "Verse1",
+      "chords": [
+        "A",
+        "A",
+        "Bm",
+        "Bm"
+      ]
+    },
+    {
+      "section": "Pre-chorus (short, 2 lines: Mirror)",
+      "chords": [
+        "D",
+        "Bm",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "section": "Verse2",
+      "chords": [
+        "A",
+        "A",
+        "Bm",
+        "Bm"
+      ]
+    },
+    {
+      "section": "Pre-chorus (full, 4 lines: Mirror)",
+      "chords": [
+        "D",
+        "Bm",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "section": "Chorus (single)",
+      "chords": [
+        "C#m",
+        "E",
+        "C#m",
+        "E",
+        "C#m",
+        "E",
+        "F#m",
+        "D",
+        "Dm"
+      ]
+    },
+    {
+      "section": "Verse (return, instrumental/short)",
+      "chords": [
+        "A",
+        "Bm"
+      ]
+    },
+    {
+      "section": "Pre-chorus (outro: Mirror)",
+      "chords": [
+        "D",
+        "Bm",
+        "A",
+        "A"
+      ]
+    }
+  ]
+}

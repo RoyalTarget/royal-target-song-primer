@@ -1,0 +1,11 @@
+{
+  "project": "Royal Target – Songprimer",
+  "maintainer": "Andre (Royal Target)",
+  "versions": [
+    {
+      "tag": "v1",
+      "date": "2025-08-24",
+      "notes": "Erste veröffentlichbare Fassung."
+    }
+  ]
+}

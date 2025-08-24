@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "words-parenthesis",
+    "rule": "Zeile ist exakt: 'Words – some hurt – and I don’t know why'."
+  },
+  {
+    "slug": "ends-up-in-a-mess",
+    "rule": "'ends up in a mess' ohne 'it' zulässig."
+  },
+  {
+    "slug": "life-fading-out",
+    "rule": "'life fading out' bleibt unverändert."
+  },
+  {
+    "slug": "bits-earn",
+    "rule": "'bits and pieces… hard to earn' bleibt, Echo auf 'return'."
+  },
+  {
+    "slug": "chorus-count",
+    "rule": "Chorus wird nur einmal gesungen."
+  }
+]

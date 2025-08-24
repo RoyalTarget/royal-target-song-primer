@@ -44,7 +44,7 @@ And I sing and I sing it so lou-loud
 C#m  E   C#m  E  
 And I sing and I sing it so lou-loud  
 F#m  D    
-...
+
 C#m  E   C#m  E  
 And I sing and I sing it so lou-loud  
 C#m  E   C#m  E  

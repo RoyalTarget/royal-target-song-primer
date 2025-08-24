@@ -1,1 +1,18 @@
+{
+  "song": "Mirror",
+  "version": "1.0",
+  "constraints": [
+    "chorus_singleton:true",
+    "no_smoothing_language:true",
+    "keep_parenthesis_words_line:true",
+    "allow_missing_it_in_ends_up_in_a_mess:true",
+    "keep_life_fading_out:true",
+    "keep_bits_and_pieces_hard_to_earn:true"
+  ],
+  "notes": {
+    "parenthesis_line": "Words – some hurt – and I don’t know why",
+    "return_after_extension": "After F#m–D–Dm go back to A–Bm (Verse), close with Mirror Pre."
+  },
+  "updated_at": "2025-08-24"
+}
 
